@@ -1,5 +1,7 @@
 @import url(./blocks/promo/promo.css);
 
+@import url(./blocks/product/product.css);
+
 @import url(./blocks/comments/comments.css);
 
 @import url(./blocks/order-form/order-form.css);
