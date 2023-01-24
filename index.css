@@ -2,6 +2,13 @@
 @import url(./blocks/page/page.css);
 
 @import url(./blocks/promo/promo.css);
+@import url(./blocks/promo/__video/promo__video.css);
+@import url(./blocks/promo/__content/promo__content.css);
+@import url(./blocks/promo/__heading/promo__heading.css);
+@import url(./blocks/promo/__info/promo__info.css);
+@import url(./blocks/promo/__list/promo__list.css);
+@import url(./blocks/promo/__button/promo__button.css);
+@import url(./blocks/promo/__link/promo__link.css);
 
 @import url(./blocks/product/product.css);
 

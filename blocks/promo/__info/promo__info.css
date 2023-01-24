@@ -1,0 +1,7 @@
+.promo__info {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1000px;
+  align-items: center;
+}

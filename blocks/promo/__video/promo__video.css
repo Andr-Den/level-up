@@ -1,0 +1,6 @@
+.promo__video {
+  width: 100vw;
+  position: absolute;
+  z-index: -1;
+  bottom: 0;
+}
