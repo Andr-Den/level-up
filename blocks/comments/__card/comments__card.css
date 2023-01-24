@@ -1,0 +1,13 @@
+.comments__card {
+  background-color: #ffffff;
+  width: 60%;
+  padding: 60px;
+  border-radius: 16px;
+  margin: 0 auto 0;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 1);
+}

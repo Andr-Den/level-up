@@ -33,7 +33,7 @@
           </button>
         </div>
       </section>
-      <section class="product">
+      <!-- <section class="product">
         <div></div>
         <div></div>
         <div></div>
@@ -41,19 +41,23 @@
         <div></div>
         <div></div>
         <div></div>
-      </section>
+      </section> -->
       <section class="comments">
-        <div class="comments__carousel">
-          <button id="back" class="comments__button">
-            <img src="" alt="">
-          </button>
-          <button id="next" class="comments__button">
-            <img src="" alt="">
-          </button>
-          <div class="comments__card">
-            <p id="comment-image" class="comments__title"></p>
-            <p id="comment-name" class="comments__name"></p>
-            <p id="comment-text"></p>
+        <div  class="comments__container">
+          <div class="comments__carousel">
+            <div class="comments__card">
+              <div id="comment-image" class="comments__image"></div>
+              <p id="comment-name" class="comments__name"></p>
+              <p id="comment-text" class="comments__text"></p>
+            </div>
+          </div>
+          <div>
+            <button id="back" class="comments__button comments__button_left">
+              <img src="./images/chevron-left.svg" alt="стрелка влево" class="comments__chevron">
+            </button>
+            <button id="next" class="comments__button">
+              <img src="./images/chevron-right.svg" alt="стрелка вправо">
+            </button>
           </div>
         </div>
       </section>
