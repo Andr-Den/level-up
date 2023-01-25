@@ -1,0 +1,33 @@
+.product__image {
+  width: 200px;
+  height: 200px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 1);
+  border-radius: 9999px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.product__image_first {
+  background-image: url(../../../images/1378892491.jpeg);
+}
+
+.product__image_second {
+  background-image: url(../../../images/ekstrakt_T9YAWbX.jpeg);
+}
+
+.product__image_third {
+  background-image: url(../../../images/zinc-word-in-3d-wooden-alphabet-letters-surrounde-2021-08-30-10-11-34-utc.jpeg);
+}
+
+.product__image_fourth {
+  background-image: url(../../../images/damiana.jpeg);
+}
+
+.product__image_fifth {
+  background-image: url(../../../images/vitaminv6\(piridoksinagidrohlorid\)-900x506.jpeg);
+}
+
+.product__image_sixth {
+  background-image: url(../../../images/vitamin-b12-biologicheskie-znachenie-simptomy-defitsita-gruppy-riska-400x300.jpeg);
+}

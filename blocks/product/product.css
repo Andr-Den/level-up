@@ -1,5 +1,4 @@
 .product {
   width: 100%;
-  max-width: 1450px;
-  margin: 20px auto 20px;
+  background: linear-gradient(to top, rgb(112, 112, 112), 50%, rgb(216, 216, 216));
 }
