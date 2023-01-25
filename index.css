@@ -25,5 +25,11 @@
 @import url(./blocks/comments/__button/comments__button.css);
 
 @import url(./blocks/new-promo/new-promo.css);
+@import url(./blocks/new-promo/__container/new-promo__container.css);
+@import url(./blocks/new-promo/__info/new-promo__info.css);
+@import url(./blocks/new-promo/__image/new-promo__image.css);
+@import url(./blocks/new-promo/__description/new-promo__description.css);
+@import url(./blocks/new-promo/__list/new-promo__list.css);
+@import url(./blocks/new-promo/__button/new-promo__button.css);
 
 @import url(./blocks/order-form/order-form.css);

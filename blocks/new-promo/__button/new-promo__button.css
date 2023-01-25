@@ -1,0 +1,15 @@
+.new-promo__button {
+  margin-top: 20px;
+  padding: 24px 60px;
+  width: 220px;
+  border: 2px solid #ffffff;
+  border-radius: 16px;
+  background: none;
+  align-self: center;
+}
+
+.new-promo__button:hover {
+  cursor: pointer;
+  border: 2px solid rgb(112, 112, 112);
+  color: rgb(112, 112, 112)
+}

@@ -1,0 +1,4 @@
+.new-promo__info {
+  display: flex;
+  justify-content: space-between
+}

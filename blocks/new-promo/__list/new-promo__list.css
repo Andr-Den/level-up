@@ -1,0 +1,9 @@
+.new-promo__list {
+  display: flex;
+  gap: 40px;
+  padding: 0;
+  margin: 16px auto 0;
+  font-size: 24px;
+  color: #ffffff;
+  list-style: url(../../../images/pensil.svg);
+}
