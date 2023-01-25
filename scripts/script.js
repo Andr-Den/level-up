@@ -17,7 +17,7 @@ let commentImage = document.getElementById("comment-image");
 let commentName = document.getElementById("comment-name");
 let commentText = document.getElementById("comment-text");
 
-commentImage.style.backgroundImage = `url(./images/1.webp)`
+commentImage.style.backgroundImage = `url(./images/1.jpeg)`
 commentName.innerHTML = `${comments[0].name}`
 commentText.innerHTML = `${comments[0].text}`
 
@@ -32,7 +32,7 @@ next.onclick = function() {
   } else {
     value++
   }
-  commentImage.style.backgroundImage = `url(./images/${value+1}.webp)`
+  commentImage.style.backgroundImage = `url(./images/${value+1}.jpeg)`
   commentName.innerHTML = `${comments[value].name}`
   commentText.innerHTML = `${comments[value].text}`
 }
@@ -43,7 +43,7 @@ back.onclick = function() {
   } else {
     value--
   }
-  commentImage.style.backgroundImage = `url(./images/${value+1}.webp)`
+  commentImage.style.backgroundImage = `url(./images/${value+1}.jpeg)`
   commentName.innerHTML = `${comments[value].name}`
   commentText.innerHTML = `${comments[value].text}`
 }
