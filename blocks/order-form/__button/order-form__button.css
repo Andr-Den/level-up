@@ -1,0 +1,12 @@
+.order-form__button {
+  margin-top: 20px;
+  padding: 24px 60px;
+  border: 2px solid #000000;
+  border-radius: 16px;
+  background: none;
+}
+
+.order-form__button:hover {
+  opacity: .5;
+  cursor: pointer;
+}

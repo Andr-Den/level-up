@@ -1,5 +1,6 @@
 .order-form {
   width: 100%;
-  max-width: 1450px;
-  margin: 20px auto 20px;
+  background-image: url(../../images/background.jpeg);
+  background-position: center;
+  background-size: cover;
 }

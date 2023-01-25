@@ -1,0 +1,7 @@
+.order-form__fieldset {
+  display: flex;
+  flex-direction: column;
+  width: 320px;
+  border: none;
+  gap: 60px;
+}

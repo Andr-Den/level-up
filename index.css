@@ -33,3 +33,14 @@
 @import url(./blocks/new-promo/__button/new-promo__button.css);
 
 @import url(./blocks/order-form/order-form.css);
+@import url(./blocks/order-form/__container/order-form__container.css);
+@import url(./blocks/order-form/__heading/order-form__heading.css);
+@import url(./blocks/order-form/__card/order-form__card.css);
+@import url(./blocks/order-form/__timer/order-form__timer.css);
+@import url(./blocks/order-form/__info/order-form__info.css);
+@import url(./blocks/order-form/__image/order-form__image.css);
+@import url(./blocks/order-form/__text/order-form__text.css);
+@import url(./blocks/order-form/__fieldset/order-form__fieldset.css);
+@import url(./blocks/order-form/__button/order-form__button.css);
+@import url(./blocks/order-form/__link/order-form__link.css);
+@import url(./blocks/order-form/__input/order-form__input.css);

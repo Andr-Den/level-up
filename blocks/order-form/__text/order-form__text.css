@@ -1,0 +1,25 @@
+.order-form__text {
+  font-size: 18px;
+  color: gray;
+  text-decoration: line-through;
+  text-align: center;
+}
+
+.order-form__text_new {
+  color: red;
+  font-size: 24px;
+  text-decoration: none;
+  animation: animate_grow 2s infinite;
+}
+
+@keyframes animate_grow {
+	0% {
+		transform: scale3d(1, 1, 1);
+	}
+	50% {
+		transform: scale3d(2, 2, 2);
+	}
+	100% {
+		transform: scale3d(1, 1, 1);
+	}
+}

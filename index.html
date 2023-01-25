@@ -95,21 +95,32 @@
         </div>
       </section>
       <section id="order" class="order-form">
-        <h3>LevelUp</h3>
-        <span id="time">30:00</span>
-        <p></p>
-        <form>
-          <fieldset>
-            <input>
-            <input>
-            <button></button>
-          </fieldset>
-        </form>
+        <div class="order-form__container">
+          <div class="order-form__card">
+            <h3 class="order-form__heading">LevelUp</h3>
+            <span id="time" class="order-form__timer">30:00</span>
+            <div class="order-form__info">
+              <div>
+                <img src="./images/prod.png" class="order-form__image">
+                <p class="order-form__text">1 800 р.</p>
+                <p class="order-form__text order-form__text_new">999 р.</p>
+              </div>
+              <form>
+                <fieldset class="order-form__fieldset">
+                  <input class="order-form__input" placeholder="Имя">
+                  <input class="order-form__input" placeholder="Телефон">
+                  <button class="order-form__button">
+                    <a href="#" class="order-form__link">Заказать</a>
+                  </button>
+                </fieldset>
+              </form>
+            </div>
+          </div>
+        </div>
       </section>
     </main>
     </div>
     <script src="./scripts/script.js"></script>
-    <script src="./scripts/cards.js"></script>
     <script src="./scripts/timer.js"></script>
   </body>
 </html>
