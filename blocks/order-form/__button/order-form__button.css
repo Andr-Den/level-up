@@ -16,3 +16,9 @@
     padding: 20px 48px;
   }
 }
+
+@media screen and (max-width: 425px){
+  .order-form__button  {
+    padding: 12px 30px;
+  }
+}
