@@ -4,3 +4,9 @@
   width: 80%;
   align-items: center;
 }
+
+@media screen and (max-width: 1190px){
+  .order-form__info {
+    flex-direction: column;
+  }
+}

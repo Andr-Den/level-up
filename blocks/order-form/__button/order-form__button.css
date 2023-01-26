@@ -10,3 +10,9 @@
   opacity: .5;
   cursor: pointer;
 }
+
+@media screen and (max-width: 1190px){
+  .order-form__button {
+    padding: 20px 48px;
+  }
+}

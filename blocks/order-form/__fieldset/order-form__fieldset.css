@@ -5,3 +5,9 @@
   border: none;
   gap: 60px;
 }
+
+@media screen and (max-width: 1190px){
+  .order-form__fieldset {
+    width: 240px;
+  }
+}
