@@ -7,3 +7,11 @@
   color: #ffffff;
   list-style: url(../../../images/pensil.svg);
 }
+
+@media screen and (max-width: 1000px){
+  .new-promo__list {
+    flex-direction: column;
+    align-items: center;
+    font-size: 16px;
+  }
+}

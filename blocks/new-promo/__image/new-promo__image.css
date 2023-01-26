@@ -1,3 +1,9 @@
 .new-promo__image {
   width: 300px;
 }
+
+@media screen and (max-width: 1000px){
+  .new-promo__image {
+    width: 240px;
+  }
+}

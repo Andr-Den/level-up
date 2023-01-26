@@ -4,3 +4,11 @@
   color: #ffffff;
   text-align: justify;
 }
+
+@media screen and (max-width: 1000px){
+  .new-promo__description {
+    width: 80%;
+    font-size: 16px;
+    text-align: center;
+  }
+}

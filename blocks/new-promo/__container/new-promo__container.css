@@ -1,8 +1,14 @@
 .new-promo__container {
   max-width: 1450px;
   margin: 0 auto 0;
-  padding: 60px 300px;
+  padding: 60px;
   display: flex;
   gap: 30px;
   flex-direction: column;
+}
+
+@media screen and (max-width: 1000px){
+  .new-promo__container {
+    padding: 30px 10px;
+  }
 }

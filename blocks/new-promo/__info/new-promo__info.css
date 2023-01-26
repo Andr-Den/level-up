@@ -1,4 +1,11 @@
 .new-promo__info {
   display: flex;
-  justify-content: space-between
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media screen and (max-width: 1280px){
+  .new-promo__info {
+    flex-direction: column;
+  }
 }
