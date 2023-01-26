@@ -47,3 +47,5 @@
 @import url(./blocks/order-form/__button/order-form__button.css);
 @import url(./blocks/order-form/__link/order-form__link.css);
 @import url(./blocks/order-form/__input/order-form__input.css);
+@import url(./blocks/order-form/__label/order-form__label.css);
+@import url(./blocks/order-form/__tooltip/order-form__tooltip.css);

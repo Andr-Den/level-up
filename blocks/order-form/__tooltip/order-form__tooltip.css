@@ -1,0 +1,17 @@
+.order-form__tooltip {
+  display: none;
+  position: absolute;
+  top: 3px;
+  right: 6px;
+  font-size: 12px;
+}
+
+.order-form__input:focus + .order-form__tooltip {
+  display: block;
+}
+
+@media screen and (max-width: 425px){
+  .order-form__tooltip {
+    font-size: 8px;
+  }
+}
