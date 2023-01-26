@@ -1,0 +1,9 @@
+.product__text {
+  text-align: center;
+}
+
+@media screen and (max-width: 900px){
+  .product__text {
+    font-size: 12px;
+  }
+}

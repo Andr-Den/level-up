@@ -15,6 +15,9 @@
 @import url(./blocks/product/__list/product__list.css);
 @import url(./blocks/product/__card/product__card.css);
 @import url(./blocks/product/__image/product__image.css);
+@import url(./blocks/product/__product-image/product__product-image.css);
+@import url(./blocks/product/__text/product__text.css);
+@import url(./blocks/product/__all-components/product__all-components.css);
 
 @import url(./blocks/comments/comments.css);
 @import url(./blocks/comments/__container/comments__container.css);

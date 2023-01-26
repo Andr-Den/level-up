@@ -1,0 +1,9 @@
+.product__product-image {
+  width: 290px;
+}
+
+@media screen and (max-width: 1340px){
+  .product__product-image {
+    width: 150px;
+  }
+}
