@@ -9,15 +9,15 @@
 }
 
 .product__image_first {
-  background-image: url(../../../images/1378892491.jpeg);
+  background-image: url(../../../images/eurycoma.jpeg);
 }
 
 .product__image_second {
-  background-image: url(../../../images/ekstrakt_T9YAWbX.jpeg);
+  background-image: url(../../../images/ekstrakt.jpeg);
 }
 
 .product__image_third {
-  background-image: url(../../../images/zinc-word-in-3d-wooden-alphabet-letters-surrounde-2021-08-30-10-11-34-utc.jpeg);
+  background-image: url(../../../images/zinc.jpeg);
 }
 
 .product__image_fourth {
@@ -25,11 +25,11 @@
 }
 
 .product__image_fifth {
-  background-image: url(../../../images/vitaminv6\(piridoksinagidrohlorid\)-900x506.jpeg);
+  background-image: url(../../../images/vitaminv6.jpeg);
 }
 
 .product__image_sixth {
-  background-image: url(../../../images/vitamin-b12-biologicheskie-znachenie-simptomy-defitsita-gruppy-riska-400x300.jpeg);
+  background-image: url(../../../images/vitamin-b12.jpeg);
 }
 
 @media screen and (max-width: 1340px){
