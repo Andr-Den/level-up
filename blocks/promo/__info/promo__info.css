@@ -5,3 +5,20 @@
   max-width: 1000px;
   align-items: center;
 }
+
+@media screen and (max-width: 1192px){
+  .promo__info {
+    justify-content: center;
+    gap: 30px;
+  }
+}
+
+@media screen and (max-width: 792px){
+  .promo__info {
+    flex-direction: column;
+  }
+
+  .promo__product-image {
+    width: 240px;
+  }
+}

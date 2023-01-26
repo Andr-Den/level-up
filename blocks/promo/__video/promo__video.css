@@ -1,6 +1,12 @@
 .promo__video {
-  width: 100vw;
+  width: 100%;
   position: absolute;
   z-index: -1;
-  bottom: 0;
+  top: 0;
+}
+
+@media screen and (max-width: 1192px){
+  .promo__video {
+    display: none;
+  }
 }
